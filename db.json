@@ -1,0 +1,85 @@
+{
+    "Data": [
+        {
+            "id": "1",
+            "availability": "New",
+            "images": [
+                {
+                    "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/u/c/p/l-all-rbc-one-nb-nicky-boy-original-imagk4xtfvvzggsd.jpeg?q=70"
+                },
+                {
+                    "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/3/x/l/l-all-oc-one-lieo-trend-original-imagj4dfhaa3zmnr.jpeg?q=70"
+                }
+            ],
+            "name": "Men Typography, Printed Round Neck Pink T-Shirt",
+            "price": "279",
+            "ratings": "3.6",
+            "Info": "Special PriceGet extra 20% off (price inclusive of cashback/coupon) Buy this product and Get Extra ₹50 Off on Select Fans  Partner OfferSign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500"
+        },
+        {
+            "id": "2",
+            "availability": "New",
+            "image": [
+                {
+                    "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/r/f/3/m-bmrbl-nvmrpolo-pl9-blive-original-imagneadcafsn6yu.jpeg?q=70"
+                },
+                {
+                    "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/r/2/d/xs-bmrblpolo-pl9-blive-original-imagmxg5frhjgxdg.jpeg?q=70"
+                }
+            ],
+            "name": "Men Solid Polo Neck Maroon, Black T-Shirt",
+            "price": "259",
+            "ratings": "3.5",
+            "Info": "Special PriceGet at flat ₹259  Buy this product and Get Extra ₹50 Off on Select Fans  Partner OfferSign up for Flipkart Pay Later and get Flipkart Gift Card worth up to ₹500"
+        },
+        {
+            "id": "3",
+            "availability": "No stock",
+            "image": [
+                {
+                    "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/b/0/v/l-tbgrrn-d45-tripr-original-imagza9znc7nhfhj.jpeg?q=70"
+                },
+                {
+                    "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/q/p/a/l-tbgrrn-d45-tripr-original-imagza9zxvkkus5j.jpeg?q=70"
+                }
+            ],
+            "name": "Men Printed Round Neck Dark Green T-Shirt",
+            "price": "199",
+            "ratings": "3.7",
+            "Info": "Special PriceGet at flat ₹199  Buy this product and Get Extra ₹50 Off on Select FansT  "
+        },
+        {
+            "id": "4",
+            "availability": "New",
+            "image": [
+                {
+                    "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/d/d/g/l-king-full-a-mm-fit-original-imagmxy2ashjguxs.jpeg?q=70"
+                },
+                {
+                    "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/8/j/z/s-v-love-full-srx-original-imagmr4gq8fxpfny.jpeg?q=70"
+                }
+            ],
+            "name": "Men Printed Round Neck White T-Shirt",
+            "price": "289",
+            "ratings": "4",
+            "Info": "Special PriceGet extra 3% off (price inclusive of cashback/coupon)   Buy this product and Get Extra ₹50 Off on Select Fans "
+        },
+
+        {
+            "id": "5",
+            "availability": "New",
+            "image": [
+                {
+                    "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/k/l/y/xl-tsrt-catalog-03-kajaru-original-imagm7taxer3czn5.jpeg?q=70"
+                },
+                {
+                    "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/8/x/a/xl-tsrt-catalog-03-kajaru-original-imagm7takgbfhgxk.jpeg?q=70"
+                }
+            ],
+            "name": "Pack of 2 Men Striped Round Neck Pink, Grey T-Shirt",
+            "price": "449",
+            "ratings": "4",
+            "Info": "Special PriceGet extra 3% off (price inclusive of cashback/coupon)   Buy this product and Get Extra ₹50 Off on Select Fans "
+        }
+    ]
+}
